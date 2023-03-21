@@ -8,7 +8,7 @@
 - **Responsive design**: The app is designed to work on a range of devices, from desktops to mobile phones.
 
 ### LINK
-[Check the page in your browser.](https://1shining1.github.io/react_movie_app/)
+[Check the pages in your browser.](https://1shining1.github.io/react_movie_app/)
 
 ### Home Page
 ![image](https://user-images.githubusercontent.com/43771301/226717824-4f3565bf-fdf2-4d1c-a564-9dff3cc64cd9.png)
