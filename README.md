@@ -1,4 +1,4 @@
-## BUILD A Movie Recommendation Web Service WITH REACT.JS
+## Build a MOVIE RECOMMENDATION WEB SERVICE with REACT.JS
 > This is a web service that recommends highly rated movies using an API. The service is built with React.js.
 
 
